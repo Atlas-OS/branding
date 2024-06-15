@@ -1,3 +1,8 @@
+
 # Atlas Branding
 
-This repository contains all the branding assets for Atlas, which contains everything that you need for Atlas' branding. On our documentation, we have a [**🎨 Branding Kit**](https://docs.atlasos.net/branding) page with everything on this repository nice and organised.
+Welcome to the Atlas Branding Repository! This is your one-stop resource for nearly all branding assets related to Atlas.
+
+For a well-structured and detailed overview of the contents in this repository, please visit our [**🎨 Branding Kit**](https://docs.atlasos.net/branding) section on our Documentation site. Here, you'll find all the assets in this repository neatly organized and easy to navigate.
+
+If you have any questions or suggestions, feel free to join our [Discord](https://discord.atlasos.net).
