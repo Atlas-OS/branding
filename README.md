@@ -9,7 +9,7 @@ If you have any questions or suggestions, feel free to join our [Discord](https:
 
 ## Contribution Guidelines
 
-See [CONTRRIBUTING.md](CONTRIBUTING.md)
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 
